@@ -1,5 +1,5 @@
 <template>
-<button>SFC Button</button>
+<button class="">SFC Button</button>
 </template>
 
 <script lang="ts">
